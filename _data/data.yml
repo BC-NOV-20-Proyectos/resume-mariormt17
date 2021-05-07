@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  name: Mario Rubén Mancilla Tinoco # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: me.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: mariormt17@gmail.com
+  phone: 3131507686
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: mariormt17
+  github: mariormt17
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@MarioManTin'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,90 +27,69 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B1 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Clear communication
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Empathy
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Critical thinking
+      link: # dejar en blanco
+
+    - item: Problem solving
+      link: # dejar en blanco
+
+    - item: Time management
+      link: # dejar en blanco
+
+    - item: Self-motivation
+      link: # dejar en blanco
+
+    - item: Self-learning
+      link: # dejar en blanco
+
+    - item: Team work
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a computer systems engineer by ITC and RoR developer by passion. I'm always trying to learn something new about tech and improving my work through the use of best practices and logical thinking. I'm a problem solver by nature and a proactive person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. Currently, I want to become a padawan in the training program at Michelada.io where I can get the opportunity to be creative, solve problems and apply the skills that I have.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Ingeniería en Sistemas Computacionales
+    university: Instituto Tecnológico de Colima
+    time: 2016 - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Ingeniería de Sistemas y Computación
+    university: Universidad Antonio Nariño
+    time: Aug 2019 - Dec 2019
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      International Mobility Program on Bogotá, Colombia at the Antonio Nariño University
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Ruby on Rails Apprentice
+    time: Nov 2020 - Present
+    company: Brightcoders Academy, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Website development in Ruby on Rails framework with agile methodologies (SCRUM) implementing frontend and backend using CI/CD.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Programming Instructor
+    time: 2018 - 2019
+    company: OOP Instructor, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Private classes of programming fundamentals and OOP on Java and C++.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +101,29 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Ruby
       level: 60%
 
-    - name: Caffe
+    - name: Ruby on Rails
+      level: 60%
+
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
+    - name: CSS
       level: 40%
+
+    - name: Java
+      level: 80%
+
+    - name: Python
+      level: 44%
+
+    - name: Javascript
+      level: 20%
+
+    - name: Git
+      level: 60%
 
 # NO MODIFICAR
 footer: >
